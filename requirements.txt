@@ -1,0 +1,4 @@
+Django==2.0.9
+pytz==2018.7
+django-widget-tweaks==1.4.3
+markdown~=3.0
